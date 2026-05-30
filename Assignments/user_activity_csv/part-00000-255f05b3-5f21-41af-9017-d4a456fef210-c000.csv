@@ -1,0 +1,3 @@
+log_id,user_id,user_activity,time_stamp,login_date
+1,101,login,2023-09-05T08:30:00.000+05:30,2023-09-05
+2,102,click,2023-09-06T12:45:00.000+05:30,2023-09-06

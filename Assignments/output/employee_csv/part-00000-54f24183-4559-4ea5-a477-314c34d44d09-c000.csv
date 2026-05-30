@@ -1,0 +1,8 @@
+employee_id,employee_name,department,state,salary,age,load_date
+13,robert,D102,California,7900,29,2026-05-30
+14,scott,D103,California,8000,36,2026-05-30
+11,james,D101,newyork,9000,34,2026-05-30
+12,michel,D101,newyork,8900,32,2026-05-30
+15,jen,D102,newyork,9500,38,2026-05-30
+17,maria,D101,newyork,7900,40,2026-05-30
+16,jeff,D103,Russia,9100,35,2026-05-30
