@@ -2,3 +2,12 @@
 .venv311/
 .idea/
 __pycache__/
+metastore_db/
+spark-warehouse/
+
+*.log
+Learnings/output/
+Assignments/output/
+
+*.crc
+_SUCCESS
